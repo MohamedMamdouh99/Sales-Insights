@@ -6,6 +6,7 @@
 
 # Steps I Followed:
 1- Load all the required data records to Power BI
+
 2- Clean and transform the raw data.
    - Removed irrelevant data like rows where sales amount is 0 or negative.
    - removed other countries as we are looking for sales insight in India only. 
@@ -13,5 +14,6 @@
   
 
 3- Created required calculated coloums and measures
+
 4- Design an interactive report to analyze and visualize the data.
    </br>
