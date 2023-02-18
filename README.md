@@ -10,6 +10,7 @@
    - Removed irrelevant data like rows where sales amount is 0 or negative.
    - removed other countries as we are looking for sales insight in India only. 
    - Normalized data by creating new conditional column to convert other currencies to INR.
+
 3- Created required calculated coloums and measures
 4- Design an interactive report to analyze and visualize the data.
    </br>
