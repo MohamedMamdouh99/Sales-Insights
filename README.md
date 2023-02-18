@@ -6,3 +6,18 @@ So, the problem is that the conversations that are happening are verbal. Hence, 
 All what the manager wants is a view of the weakest area the company need to focus to increase the sales and improvise the declination. He is interested in simple, understandable and digestive insight. So, he is more interested in a dashboard which he can go and look at the real data because data speaks the truth. All he wants is a simple data visualization tool which he can access on daily basis.
 Hence, by using such tools and technology one can make data driven decisions which helps to increase the sales of the company.
 So, in this project we will help a company make its own sales related dashboard using PowerBI.
+
+> AtliQ hardware is a company in India which supplies computer hardware and peripheral devices across India. The have many stores across India such as surge stores, Nomad stores etc. The head office of the company is situated in Delhi.
+
+>Designed a Power BI dashboard for Atliq Hardware to track KPIs (Sales and Revenue), compared regional performance and to analyzed it, producing visualizations to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.
+
+# steps I followed:
+1. Load all the required data records to Power BI
+2. Clean and transform the raw data.
+   - Removed irrelevant data like rows where sales amount is 0 or negative.
+   - removed other countries as we are looking for sales insight in India only. 
+   - Normalized data by creating new conditional column to convert other currencies to INR.
+3. Build a relational data model.
+4. Created required calculated coloums and measures
+5. Design an interactive report to analyze and visualize the data.
+   </br>
