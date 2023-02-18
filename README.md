@@ -19,7 +19,11 @@
 
 # The Dashboard
 1- Key Insights:
-![Key Insights](https://user-images.githubusercontent.com/88439119/219844456-4fa8dd85-c72a-46df-9e52-9e7e1effff46.png)
+
+![Key Insights](https://user-images.githubusercontent.com/88439119/219846441-f32e8b11-c453-426a-afd6-9aebfc434744.PNG)
+
 
 2- Profit Analysis:
-![Profit Analysis](https://user-images.githubusercontent.com/88439119/219844540-251464d0-e33f-4800-8511-31773e735ed6.png)
+
+![Profit Analysis](https://user-images.githubusercontent.com/88439119/219846464-d0f524af-926e-4c36-95df-a70584559791.PNG)
+
